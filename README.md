@@ -1,7 +1,7 @@
 # Assignment
-Programming exercise
+Programming exercise (Alex So)
 
-Warehouse Invnentory Application v1.0
+Warehouse Invnentory Application v1.0  
 
 The program simulates a warehouse inventory system which accepts orders for products stored in the inventory.
 The orders are sent to the main program (WarehouseApp.java) in JSON format.
